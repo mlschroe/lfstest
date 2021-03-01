@@ -1,0 +1,10 @@
+6f63de9674dee145bc63334764b85f35  combchar.diff
+29ef235ab13246512428958c1471e9f4  global_screenrc.patch
+72af7aaf273f413292f0c2e2aa2d8338  libtinfo.diff
+d276213d3acd10339cd37848b8c4ab1e  screen-4.8.0.tar.gz
+a53d4d20f35a205485555fc00bb2c72c  screen-4.8.0.tar.gz.sig
+ae1a606bc087d2a2b17aabfbf7679ed5  screen.changes
+ac4ba8514b335acc72a7aa9bb1212540  screen.conf
+281e200dde05ad56aff82852d4e06010  screen.keyring
+2f7fcef6aa43b9992366143f35e1c22f  screen.pam
+25465ebfab89835d5939cccb2be6c569  screen.spec
